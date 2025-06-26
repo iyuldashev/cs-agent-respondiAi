@@ -1,4 +1,4 @@
-# CS Agent - RespondiAI (Demo)
+# Respondi.ai - Your Customer Support Agent (Demo)
 
 🚧 **Work in Progress** - This is an early demo version of AI-powered customer support agents with voice interface capabilities.
 
